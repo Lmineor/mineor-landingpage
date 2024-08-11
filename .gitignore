@@ -128,3 +128,6 @@ dist
 # sitemap
 */sitemap*.xml
 */robots.txt
+
+.output
+package-lock.json
